@@ -10,4 +10,4 @@ Si tienes dudas de como publicar, revisa [este tutorial](http://docs.trabajospro
 ## API
 
 - Tutorial de  Koa.js para JSON APIS (soon).
-- [Docs](/API/index)
+- [Docs](/API/index.md)
